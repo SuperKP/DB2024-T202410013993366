@@ -13,6 +13,7 @@ See the Mulan PSL v2 for more details. */
 #include <atomic>
 #include <deque>
 #include <string>
+#include <memory>
 #include <thread>
 #include <unordered_set>
 
